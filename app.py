@@ -13,7 +13,12 @@ os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
 QUIZZES_PADRAO = {
     'matematica': 'matematica.txt',
     'portugues': 'portugues.txt',
-    'ciencias': 'ciencias.txt'
+    'ciencias': 'ciencias.txt',
+    'geografia': 'geografia.txt',
+    'historia': 'historia.txt',
+    'ingles': 'ingles.txt',
+    'ed_fisica': 'educacao_fisica.txt',
+    'arte': 'arte.txt'
 }
 
 def ler_perguntas(caminho_arquivo):
