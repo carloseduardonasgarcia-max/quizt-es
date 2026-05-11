@@ -1,12 +1,32 @@
 <!DOCTYPE html>
-<html lang="">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-  </body>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz - Pergunta {{ indice }}</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; background: #f5f6fa; padding: 30px; }
+        .container { max-width: 700px; margin: auto; background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        h2 { color: #2c3e50; }
+        label { display: block; margin: 10px 0; font-size: 16px; cursor: pointer; }
+        input[type=radio] { margin-right: 10px; }
+        button { background: #2c3e50; color: white; border: none; padding: 12px 24px; border-radius: 8px; cursor: pointer; font-size: 16px; margin-top: 20px; }
+        button:hover { background: #3498db; }
+        .placar { color: #7f8c8d; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p class="placar">Acertos: {{ acertos }} | Erros: {{ erros }} | Progresso: {{ indice }}/{{ total }}</p>
+        <h2>{{ pergunta.texto }}</h2>
+        <form method="POST">
+            {% for opcao in pergunta.opcoes %}
+            <label>
+                <input type="radio" name="escolha" value="{{ loop.index }}" required>
+                {{ loop.index }}) {{ opcao }}
+            </label>
+            {% endfor %}
+            <button type="submit">Confirmar</button>
+        </form>
+    </div>
+</body>
 </html>
