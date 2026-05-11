@@ -1,12 +1,23 @@
 <!DOCTYPE html>
-<html lang="">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-  </body>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz - Resultado</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; background: #f5f6fa; text-align: center; padding-top: 80px; }
+        .resultado { background: white; padding: 30px; border-radius: 12px; display: inline-block; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        h2 { color: #2c3e50; }
+        .detalhes { font-size: 18px; margin: 15px 0; }
+        a { text-decoration: none; background: #2c3e50; color: white; padding: 10px 20px; border-radius: 8px; }
+        a:hover { background: #3498db; }
+    </style>
+</head>
+<body>
+    <div class="resultado">
+        <h2>Quiz Concluído!</h2>
+        <p class="detalhes">Acertos: {{ acertos }}/{{ total }} ({{ percentual|round(1) }}%)</p>
+        <p class="detalhes">Erros: {{ erros }}</p>
+        <a href="{{ url_for('index') }}">Fazer Novamente</a>
+    </div>
+</body>
 </html>
