@@ -1,0 +1,21 @@
+texto,opcao_a,opcao_b,opcao_c,opcao_d,resposta
+"1) O que é densidade demográfica?","Número de cidades","População por área","Quantidade de países","Número de nascimentos",2
+"2) Qual país mais populoso das Américas?","Estados Unidos","Brasil","México","Canadá",1
+"3) O que é migração?","Mudança de clima","Movimento de pessoas","Aumento da população","Crescimento urbano",2
+"4) O que é imigração?","Saída de pessoas","Entrada de pessoas","Aumento natural","Diminuição da população",2
+"5) O que é emigração?","Entrada de pessoas","Movimento interno","Saída de pessoas","Crescimento urbano",3
+"6) Qual a língua mais falada na América Latina?","Inglês","Português","Espanhol","Francês",3
+"7) Qual país da América fala português?","Argentina","Brasil","Chile","Peru",2
+"8) O que é crescimento vegetativo?","Migração total","Diferença entre nascimentos e mortes","Número de cidades","Quantidade de imigrantes",2
+"9) Qual país da América do Norte tem maior área?","México","Estados Unidos","Canadá","Groenlândia",3
+"10) O que é urbanização?","Vida no campo","Crescimento das cidades","Redução da população","Migração externa",2
+"11) Qual a capital da Argentina?","Santiago","Montevidéu","Buenos Aires","Lima",3
+"12) O que é população absoluta?","População rural","Número total de habitantes","População urbana","Densidade",2
+"13) O que é taxa de natalidade?","Número de mortes","Número de nascimentos","Migração","População total",2
+"14) O que é taxa de mortalidade?","Número de mortes","Número de nascimentos","Migração","Crescimento urbano",1
+"15) O que é êxodo rural?","Migração cidade-campo","Migração campo-cidade","Migração entre países","Turismo",2
+"16) Qual país da América do Sul não tem saída para o mar?","Chile","Peru","Bolívia","Equador",3
+"17) Qual a capital do Chile?","Lima","Bogotá","Santiago","Caracas",3
+"18) O que é taxa de fecundidade?","Número de mortes","Número de filhos por mulher","Migração","População urbana",2
+"19) Qual país da América fala francês?","Brasil","Canadá","México","Chile",2
+"20) O que é pirâmide etária?","Mapa","Gráfico da população por idade","Clima","Relevo",2

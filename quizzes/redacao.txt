@@ -1,0 +1,21 @@
+texto,opcao_a,opcao_b,opcao_c,opcao_d,resposta
+"1) O que é o tema de um conto?","A lista de personagens da história","A ideia central ou mensagem que o autor quer transmitir","O local onde a história acontece","O tempo de duração da narrativa",2
+"2) Como o tema se diferencia do enredo?","Tema é a sequência de eventos; enredo é a mensagem","Tema é a mensagem; enredo é a sequência de eventos","São sinônimos","Tema é o cenário; enredo são os personagens",2
+"3) Qual das opções é um exemplo de tema?","O cachorro late à noite","A amizade superando obstáculos","João foi à escola","Era uma vez uma princesa",2
+"4) O tema de um conto pode ser explícito?","Sim, quando o autor declara diretamente a mensagem","Não, tema é sempre implícito","Apenas em contos infantis","Sim, mas só no final",1
+"5) E o tema implícito?","O leitor precisa inferir, pois não está escrito claramente","Não existe","É o mesmo que título","É sempre uma lição de moral",1
+"6) Qual a diferença entre tema e assunto?","Assunto é o tópico superficial; tema é a reflexão profunda","Assunto é a mensagem; tema é o tópico","Não há diferença","Assunto é o final da história",1
+"7) Em um conto sobre um menino que perde o brinquedo, qual poderia ser um tema?","A importância de cuidar dos objetos","O menino se chama Pedro","O brinquedo era vermelho","A história ocorre à tarde",1
+"8) Um mesmo conto pode ter mais de um tema?","Sim, é comum haver temas secundários","Não, apenas um tema central","Sim, mas apenas dois","Não, pois confunde o leitor",1
+"9) Qual destes NÃO é um tema comum em contos?","A superação","A vingança","A descrição da roupa do personagem","O amor",3
+"10) O que é tema universal?","Um tema que só aparece em um país","Um tema que pode ser compreendido por pessoas de diferentes culturas e épocas","Um tema religioso","Um tema sem importância",2
+"11) Como identificar o tema de um conto?","Observando o conflito principal e a transformação dos personagens","Contando o número de páginas","Lendo apenas a primeira frase","Ignorando o título",1
+"12) O tema está diretamente ligado a qual elemento da narrativa?","Ao cenário","Ao conflito central da história","Ao número de capítulos","Ao nome do autor",2
+"13) Qual frase define melhor a função do tema?","Ensinar o leitor a escrever","Dar significado à história, conectando eventos a uma ideia maior","Descrever o ambiente","Apresentar o narrador",2
+"14) Em um conto de terror, um tema possível é:","O medo do desconhecido","A receita de bolo","A cor do céu","A tabela de preços",1
+"15) O tema costuma ser expresso como:","Um substantivo concreto (ex: cadeira)","Uma frase ou ideia abstrata (ex: a justiça é cega)","Um diálogo","Uma data",2
+"16) Qual a relação entre personagem e tema?","O personagem sempre repete o tema em voz alta","As ações e decisões do personagem ilustram o tema","Não há relação","O tema determina o nome do personagem",2
+"17) Se um conto termina com o herói perdoando o vilão, qual tema é provável?","A vingança","O perdão e a redenção","A indiferença","A solidão",2
+"18) O tema de um conto deve ser confundido com a moral da história?","Sim, são exatamente iguais","Não, moral é uma lição explícita; tema é mais amplo e interpretativo","Apenas em fábulas","Sim, em todos os casos",2
+"19) Para analisar o tema, o leitor deve considerar:","O título, o conflito, as mudanças dos personagens e o desfecho","Apenas o título","Apenas a primeira frase","Apenas o nome do autor",1
+"20) Por que o tema é importante em um conto?","Dá profundidade e unidade à narrativa, permitindo reflexão","Porque ocupa espaço na página","Porque é obrigatório em concursos","Para dificultar a leitura",1

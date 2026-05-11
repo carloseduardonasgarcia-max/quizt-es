@@ -1,0 +1,21 @@
+texto,opcao_a,opcao_b,opcao_c,opcao_d,resposta
+"1) Onde começou a Revolução Industrial?","França","Inglaterra","Brasil","Japão",2
+"2) Qual o lema da Revolução Francesa?","Paz e Amor","Ordem e Progresso","Liberdade, Igualdade e Fraternidade","Deus e Pátria",3
+"3) Qual máquina foi essencial na Revolução Industrial?","Máquina a vapor","Computador","Avião","Celular",1
+"4) Qual evento iniciou a Revolução Francesa?","Queda da Bastilha","Invenção da roda","Descobrimento da América","Guerra Fria",1
+"5) Quem trabalhava nas fábricas?","Nobreza","Reis","Proletariado","Clero",3
+"6) Qual transporte ficou famoso na Revolução Industrial?","Avião","Carro elétrico","Trem a vapor","Navio espacial",3
+"7) Quem era o rei da França na Revolução?","Napoleão","Luís XVI","Dom Pedro I","Júlio César",2
+"8) Qual combustível era usado nas fábricas?","Petróleo","Energia solar","Carvão mineral","Madeira",3
+"9) A Revolução Francesa foi contra qual regime?","Democracia","Monarquia Absoluta","Socialismo","Anarquia",2
+"10) Para onde as pessoas mudaram na Revolução Industrial?","Fazendas","Florestas","Cidades","Cavernas",3
+"11) O que era usado para execuções na França?","Espada","Guilhotina","Arco e flecha","Canhão",2
+"12) Como eram feitos os produtos antes das máquinas?","Por robôs","À mão (artesanato)","Por impressoras","Não existiam",2
+"13) Quem virou líder da França após a Revolução?","George Washington","Hitler","Napoleão Bonaparte","Getúlio Vargas",3
+"14) O trabalho infantil era comum nas fábricas?","Não, era proibido","Sim, era comum","Só nos fins de semana","Só para ricos",2
+"15) Quem liderou a Revolução Francesa?","Nobreza","Reis","Burguesia e Povo","Estrangeiros",3
+"16) O que a Revolução Industrial mudou?","A cor do mar","A forma de produzir produtos","O clima","A língua falada",2
+"17) O que era a Bastilha?","Uma escola","Um shopping","Uma prisão","Um hospital",3
+"18) Qual país era rival da França na época?","Brasil","Inglaterra","Argentina","China",2
+"19) Como era o trabalho nas fábricas?","Curto e leve","Não havia trabalho","Longo e cansativo","Apenas 1 hora",3
+"20) A Revolução Francesa defendia o quê?","Escravidão","Ditadura","Democracia e Direitos","Monarquia",3

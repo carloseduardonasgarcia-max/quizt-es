@@ -1,0 +1,21 @@
+texto,opcao_a,opcao_b,opcao_c,opcao_d,resposta
+"1) Assinale a alternativa que apresenta um sujeito composto:","Maria e João foram ao cinema.","Compraram livros novos.","Ventou muito ontem à noite.","Estudava-se bastante naquela escola.",1
+"2) Na oração 'Comeram todo o bolo', o sujeito é classificado como:","Simples","Composto","Indeterminado","Oculto (desinencial)",3
+"3) 'Choveu muito durante a madrugada.' A oração apresenta sujeito:","Simples","Indeterminado","Oculto","Inexistente (oração sem sujeito)",4
+"4) Assinale a alternativa em que o sujeito é oculto (desinencial):","Alguém bateu à porta.","Queremos justiça.","Faz dois anos que não o vejo.","Ventava intensamente.",2
+"5) Qual das frases abaixo possui sujeito composto?","A equipe e a comissão técnica viajaram.","O aluno estudioso passou.","Precisa-se de funcionários.","Nós sairemos mais cedo.",1
+"6) Em 'Havia muitas pessoas na fila', o sujeito é:","Indeterminado","Simples ('muitas pessoas')","Inexistente","Oculto",3
+"7) 'Os livros e os cadernos estavam sobre a mesa.' O sujeito é:","Simples","Composto","Indeterminado","Oculto",2
+"8) Assinale a alternativa com sujeito oculto:","Eles venderam a casa.","Venderam a casa.","Vendi a casa.","Vendeu-se a casa.",3
+"9) 'Fazia dias muito quentes no verão.' Trata-se de:","Sujeito simples","Sujeito composto","Oração sem sujeito","Sujeito indeterminado",3
+"10) Na oração 'Afligiam-me aquelas notícias', o sujeito é:","Indeterminado","Simples ('aquelas notícias')","Composto","Oculto",2
+"11) 'Os alunos estudaram para a prova.' O predicado é:","Nominal","Verbal","Verbo-nominal","Nominal-verbal",2
+"12) 'A turma estava animada.' O predicado é:","Verbal","Nominal","Verbo-nominal","Predicativo",2
+"13) 'Os atletas chegaram exaustos.' O predicado é:","Verbal","Nominal","Verbo-nominal","Nominal-verbal",3
+"14) Identifique o predicado nominal:","O professor explicou a matéria.","Ela continua bastante triste.","Os pássaros cantam na manhã.","Nós andamos rápido.",2
+"15) 'Eles saíram da festa alegres.' O predicado é verbo-nominal porque:","O verbo é de ligação.","Há um verbo de ação e um estado.","Há apenas um núcleo.","O sujeito é indeterminado.",2
+"16) Qual alternativa contém um predicado verbal?","O dia está lindo.","Os meninos pareciam cansados.","O vento derrubou as folhas.","Ela é inteligente.",3
+"17) 'A menina comeu o bolo saboroso.' Neste caso, temos predicado:","Verbal","Nominal","Verbo-nominal","Predicativo do sujeito",3
+"18) 'O aluno parece calmo hoje.' O predicado é:","Nominal","Verbal","Verbo-nominal","Simples",1
+"19) Assinale a frase com predicado verbo-nominal:","Todos chegaram cedo.","Ela caminhava nervosa pela sala.","A prova foi difícil.","Eles são muito estudiosos.",2
+"20) Em 'Ela comprou a casa nova', o predicado é:","Nominal","Verbal","Verbo-nominal","Verbo-adjetival",2

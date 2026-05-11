@@ -1,0 +1,21 @@
+texto,opcao_a,opcao_b,opcao_c,opcao_d,resposta
+"1) Após 'enjoy', qual forma correta?","to play","playing","play","played",2
+"2) Após 'want', qual forma correta?","going","to go","go","went",2
+"3) Após 'finish', qual forma correta?","to do","doing","do","did",2
+"4) Após 'decide', qual forma correta?","going","go","to go","gone",3
+"5) Após preposição 'at', qual forma correta?","swim","to swim","swimming","swam",3
+"6) Após 'hope', qual forma correta?","seeing","to see","see","saw",2
+"7) Após 'avoid', qual forma correta?","to eat","eating","eat","ate",2
+"8) Após 'plan', qual forma correta?","traveling","travel","to travel","traveled",3
+"9) Gerund como sujeito correto?","Swim is fun","Swimming is fun","To swim is fun","Swam is fun",2
+"10) Após 'need', qual forma mais comum?","study","studying","to study","studied",3
+"11) Após 'keep', qual forma correta?","to try","trying","try","tried",2
+"12) Após 'learn', qual forma correta?","swim","to swim","swimming","swam",2
+"13) 'Stop' (parar de fazer algo):","to smoke","smoking","smoke","smoked",2
+"14) Após 'would like', qual forma correta?","going","go","to go","went",3
+"15) Após 'mind', qual forma correta?","to help","help","helping","helped",3
+"16) Após 'promise', qual forma correta?","helping","help","to help","helped",3
+"17) Após 'suggest', qual forma correta?","to go","go","going","went",3
+"18) Após 'agree', qual forma correta?","going","go","to go","went",3
+"19) Após 'practice', qual forma correta?","to speak","speak","speaking","spoke",3
+"20) Após 'consider', qual forma correta?","to move","moving","move","moved",2

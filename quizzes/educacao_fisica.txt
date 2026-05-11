@@ -1,0 +1,21 @@
+texto,opcao_a,opcao_b,opcao_c,opcao_d,resposta
+"1) O que são atividades aeróbicas?","Exercícios sem movimento","Exercícios que usam oxigênio","Exercícios só de força","Exercícios de curta duração",2
+"2) Qual é um exemplo de atividade aeróbica?","Musculação","Levantamento de peso","Caminhada","Flexão",3
+"3) O que são atividades anaeróbicas?","Exercícios leves","Exercícios sem uso de energia","Exercícios de longa duração","Exercícios intensos e curtos",4
+"4) Qual é um exemplo de atividade anaeróbica?","Corrida leve","Caminhada","Musculação","Pedalar devagar",3
+"5) Qual característica das atividades aeróbicas?","Alta intensidade e curta duração","Uso de oxigênio","Sem movimento","Só força",2
+"6) Qual característica das atividades anaeróbicas?","Longa duração","Baixa intensidade","Alta intensidade","Uso constante de oxigênio",3
+"7) Qual atividade ajuda mais o coração?","Musculação","Corrida","Flexão","Abdominal",2
+"8) Qual atividade é feita por mais tempo?","Anaeróbica","Aeróbica","Explosiva","De força",2
+"9) O que o corpo usa no exercício aeróbico?","Oxigênio","Somente proteína","Somente gordura","Nada",1
+"10) O que o corpo usa no exercício anaeróbico?","Oxigênio","Energia rápida sem oxigênio","Água","Vitaminas",2
+"11) Qual desses é aeróbico?","Correr","Levantar peso","Pular caixa","Agachamento pesado",1
+"12) Qual desses é anaeróbico?","Nadar devagar","Caminhar","Sprint (corrida rápida)","Pedalar leve",3
+"13) Qual tipo melhora resistência?","Anaeróbico","Aeróbico","Ambos iguais","Nenhum",2
+"14) Qual tipo melhora força muscular?","Aeróbico","Anaeróbico","Ambos iguais","Nenhum",2
+"15) Qual exemplo de atividade aeróbica?","Dança","Supino","Levantamento terra","Saltos explosivos",1
+"16) Qual exemplo de atividade anaeróbica?","Caminhada","Corrida leve","levantamento de peso","Passeio de bicicleta leve",3
+"17) O que acontece no exercício aeróbico?","Respiração aumenta","Nada muda","Parada do coração","Sem energia",1
+"18) O que acontece no exercício anaeróbico?","Energia lenta","Energia rápida","Sem esforço","Sono",2
+"19) Qual é mais intenso?","Aeróbico","Anaeróbico","Ambos iguais","Nenhum",2
+"20) Qual é mais indicado para longos períodos?","Anaeróbico","Aeróbico","Explosivo","Força máxima",2

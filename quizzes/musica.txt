@@ -1,0 +1,21 @@
+texto,opcao_a,opcao_b,opcao_c,opcao_d,resposta
+"1) O que é altura do som?","A intensidade do som","A duração do som","A frequência do som (grave ou agudo)","O timbre do som",3
+"2) O que determina se um som é grave ou agudo?","A intensidade","A frequência","A duração","O volume",2
+"3) Qual parâmetro do som está relacionado ao volume (forte ou fraco)?","Altura","Timbre","Intensidade","Duração",3
+"4) O que é timbre?","A velocidade do som","A identidade sonora de cada instrumento","A duração do som","A altura do som",2
+"5) Qual parâmetro indica quanto tempo o som permanece?","Altura","Intensidade","Timbre","Duração",4
+"6) Um som forte possui:","Baixa intensidade","Alta intensidade","Baixa frequência","Curta duração",2
+"7) Sons agudos possuem:","Baixa frequência","Alta frequência","Baixa intensidade","Longa duração",2
+"8) Qual exemplo representa timbre?","Diferenciar violão de piano","Diferenciar som forte de fraco","Diferenciar som longo de curto","Diferenciar grave de agudo",1
+"9) A clave de sol é usada principalmente para:","Sons graves","Sons médios e agudos","Sons muito baixos","Ritmo apenas",2
+"10) Onde começa o desenho da clave de sol?","Na nota dó","Na nota fá","Na nota sol","Na nota ré",3
+"11) A clave de sol indica a posição de qual nota na pauta?","Dó","Ré","Fá","Sol",4
+"12) Em qual linha da pauta a clave de sol marca a nota sol?","Primeira linha","Segunda linha","Terceira linha","Quarta linha",2
+"13) Quantas linhas tem a pauta musical?","4","5","6","7",2
+"14) Qual destes é um parâmetro do som?","Ritmo","Melodia","Altura","Escala",3
+"15) Um som fraco possui:","Alta intensidade","Baixa intensidade","Alta frequência","Grande duração",2
+"16) Qual parâmetro permite distinguir a voz de duas pessoas?","Altura","Duração","Timbre","Intensidade",3
+"17) Sons graves possuem:","Alta frequência","Baixa frequência","Alta intensidade","Curta duração",2
+"18) A clave de sol é desenhada:","No início da pauta","No final da música","No meio da pauta","Abaixo da pauta",1
+"19) Qual parâmetro está relacionado ao tempo do som?","Altura","Duração","Timbre","Intensidade",2
+"20) Qual das opções NÃO é um parâmetro do som?","Altura","Cor","Timbre","Intensidade",2

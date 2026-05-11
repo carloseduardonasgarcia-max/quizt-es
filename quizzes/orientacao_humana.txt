@@ -1,0 +1,21 @@
+texto,opcao_a,opcao_b,opcao_c,opcao_d,resposta
+"1) O que é ética?","O conjunto de leis de um país","A reflexão crítica sobre os valores e princípios que orientam o comportamento humano","A prática religiosa de uma comunidade","Um código de vestimenta profissional",2
+"2) Qual a principal diferença entre moral e ética?","Moral é pública, ética é privada","Moral é prática social, ética é reflexão teórica sobre essa prática","Moral é imutável, ética é mutável","Não há diferença, são sinônimos",2
+"3) Um ato moralmente correto pode ser eticamente questionável?","Sim, pois ética e moral podem entrar em conflito","Não, pois são a mesma coisa","Sim, apenas em situações religiosas","Não, porque a moral sempre supera a ética",1
+"4) O que é um dilema ético?","Uma situação onde qualquer escolha viola algum princípio ético","Uma pergunta de múltipla escolha","Um problema jurídico sem solução","Uma mentira conveniente",1
+"5) Segundo Kant, o que define o valor moral de uma ação?","As suas consequências","A intenção e o dever por trás da ação","A opinião da maioria","A emoção sentida no momento",2
+"6) O utilitarismo, de Bentham e Mill, defende que:","A ação moral visa o prazer individual","A ação moral é determinada por Deus","A ação moral deve produzir a maior felicidade para o maior número","A ação moral segue regras absolutas",3
+"7) O que são valores morais?","Preços atribuídos a objetos","Princípios ou disposições que orientam o julgamento sobre o que é bom ou mau","Leis escritas por governantes","Técnicas de persuasão",2
+"8) Um código de ética profissional tem como função:","Substituir as leis criminais","Orientar a conduta dos profissionais dentro de padrões da categoria","Impedir qualquer inovação","Definir salários mínimos",2
+"9) A máxima ""trate os outros como gostaria de ser tratado"" está relacionada a:","Ao relativismo moral","Ao princípio da reciprocidade ou Regra de Ouro","Ao niilismo ético","Ao egoísmo moral",2
+"10) O que é relativismo moral?","A crença de que valores morais são absolutos e universais","A crença de que valores morais variam conforme cultura, época ou indivíduo","A negação de qualquer valor moral","A imposição de uma moral única",2
+"11) Agir por dever, segundo Kant, significa:","Agir por medo da punição","Agir conforme a lei, mas por inclinação pessoal","Agir por respeito à lei moral universal, mesmo sem vontade pessoal","Agir apenas para obter vantagens",3
+"12) Um exemplo clássico de questão ética na medicina é:","Escolher o sabor do medicamento","Decidir sobre a interrupção da gravidez em caso de risco à mãe (aborto terapêutico)","Definir o horário de atendimento","Escolher a cor do jaleco",2
+"13) O que significa ter autonomia moral?","Obedece cegamente à autoridade","Capacidade de dar leis a si mesmo, com base na razão","Isolar-se socialmente","Seguir apenas instintos",2
+"14) A Bioética é um ramo da ética que estuda:","A ética dos computadores","As implicações éticas da biologia, medicina e ciências da vida","A ética empresarial","A ética esportiva",2
+"15) O princípio da não maleficência na saúde significa:","Fazer sempre o bem","Respeitar a autonomia do paciente","Não causar dano desnecessário ao paciente","Distribuir recursos igualmente",3
+"16) O que é consciência moral?","Um tribunal jurídico","A capacidade de julgar interiormente os próprios atos como certos ou errados","Um livro de regras externo","Uma emoção incontrolável",2
+"17) A frase ""os fins justificam os meios"" é associada a:","Kant e o dever","Ao cristianismo medieval","Maquiavel e ao pensamento utilitarista em alguns contextos","Ao estoicismo",3
+"18) Qual das opções representa um conflito ético no ambiente corporativo?","Escolher entre dois fornecedores honestos","Premiar um funcionário por mérito","Ocultar um defeito de produto para não prejudicar as metas de vendas","Aumentar o salário de todos",3
+"19) O que é justiça distributiva?","A justiça aplicada em tribunais","A distribuição justa de bônus e ônus sociais","A venda de mercadorias","A troca de favores",2
+"20) Por que a ética é importante na política?","Para garantir a reeleição","Para que as decisões de poder respeitem a dignidade humana e o bem comum","Para aumentar impostos","Para centralizar o poder",2

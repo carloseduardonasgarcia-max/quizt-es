@@ -1,0 +1,21 @@
+texto,opcao_a,opcao_b,opcao_c,opcao_d,resposta
+"1) O que foi o Renascimento Artístico?","Um movimento religioso medieval","Um movimento cultural que valorizou a arte, a ciência e o ser humano","Um período de guerras na Europa","Um sistema político italiano",2
+"2) Em que período ocorreu o Renascimento?","Idade Antiga","Idade Média","Idade Moderna","Idade Contemporânea",3
+"3) Onde surgiu o Renascimento?","França","Alemanha","Itália","Espanha",3
+"4) Qual cidade italiana foi o principal centro do Renascimento?","Roma","Veneza","Florença","Milão",3
+"5) Uma característica marcante do Renascimento é:","Teocentrismo","Humanismo, valorização do homem","Feudalismo","Misticismo",2
+"6) O que significa Humanismo?","Valorização de Deus acima de tudo","Valorização do ser humano, da razão e da ciência","Negação da ciência","Obediência à Igreja",2
+"7) Quem pintou a Mona Lisa?","Michelangelo","Rafael","Leonardo da Vinci","Donatello",3
+"8) Qual dessas obras é de Michelangelo?","A Última Ceia","Davi, escultura famosa","A Escola de Atenas","O Nascimento de Vênus",2
+"9) A obra O Nascimento de Vênus é de:","Rafael","Leonardo da Vinci","Botticelli, artista italiano","Caravaggio",3
+"10) O que foi o mecenato?","Apoio financeiro aos artistas, incentivo à arte","Cobrança de impostos","Ensino religioso","Movimento político",1
+"11) Quem eram os mecenas?","Camponeses","Artistas","Nobres e ricos, que financiavam a arte","Soldados",3
+"12) Uma inovação artística do Renascimento foi:","A ausência de cores","Perspectiva e profundidade, maior realismo","Imagens planas","Arte abstrata",2
+"13) O que é perspectiva na arte?","Uso de cores fortes","Técnica para criar profundidade, distância e espaço","Uso de ouro","Desenho religioso",2
+"14) Qual desses artistas também foi cientista e inventor?","Rafael","Leonardo da Vinci, gênio renascentista","Donatello","Giotto",2
+"15) A obra A Última Ceia representa:","Uma batalha","A despedida de Jesus com seus discípulos, antes da crucificação","Um casamento real","Uma coroação",2
+"16) O Renascimento valorizava principalmente:","A vida após a morte","A vida terrena, o conhecimento e a ciência","A guerra","A economia feudal",2
+"17) O antropocentrismo significa:","Deus no centro de tudo","O homem como centro das atenções, valorizando a razão","A natureza acima de tudo","A política como foco",2
+"18) Qual desses NÃO é um artista renascentista?","Leonardo da Vinci","Michelangelo","Pablo Picasso","Rafael",3
+"19) A arte renascentista buscava:","Realismo e proporção, inspiração na natureza","Simbolismo exagerado","Arte sem regras","Apenas temas religiosos",1
+"20) O Renascimento contribuiu para:","O atraso científico","O avanço das artes e das ciências","O fim da pintura","O domínio feudal",2
