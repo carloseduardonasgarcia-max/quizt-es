@@ -1,15 +1,20 @@
 import os
 from flask import Flask, render_template, request, redirect, url_for, session
 import csv
-from werkzeug.utils import secure_filename
 
 app = Flask(__name__)
 app.secret_key = os.environ.get('SECRET_KEY', 'uma-chave-secreta-padrao')
-app.config['UPLOAD_FOLDER'] = '/tmp/uploads'  # Render permite escrita em /tmp
+app.config['UPLOAD_FOLDER'] = '/tmp/uploads'
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16 MB
 
-# Garante que a pasta de uploads exista
 os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
+
+# Lista de quizzes padrão (nome do arquivo na pasta quizzes)
+QUIZZES_PADRAO = {
+    'matematica': 'matematica.txt',
+    'portugues': 'portugues.txt',
+    'ciencias': 'ciencias.txt'
+}
 
 def ler_perguntas(caminho_arquivo):
     """Lê o arquivo CSV e retorna lista de dicionários."""
@@ -26,21 +31,36 @@ def ler_perguntas(caminho_arquivo):
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    """Tela inicial: upload do arquivo de perguntas."""
+    """Tela inicial: upload de arquivo ou escolha de quiz padrão."""
     if request.method == 'POST':
+        # Upload de arquivo
         arquivo = request.files.get('arquivo')
         if arquivo and arquivo.filename.endswith(('.txt', '.csv')):
+            from werkzeug.utils import secure_filename
             nome_seguro = secure_filename(arquivo.filename)
             caminho = os.path.join(app.config['UPLOAD_FOLDER'], nome_seguro)
             arquivo.save(caminho)
-
             perguntas = ler_perguntas(caminho)
             session['perguntas'] = perguntas
             session['indice'] = 0
             session['acertos'] = 0
             session['erros'] = 0
             return redirect(url_for('quiz'))
-    return render_template('index.html')
+    return render_template('index.html', quizzes=QUIZZES_PADRAO)
+
+@app.route('/padrao/<materia>')
+def quiz_padrao(materia):
+    """Carrega um quiz padrão a partir dos arquivos da pasta quizzes."""
+    if materia in QUIZZES_PADRAO:
+        caminho = os.path.join('quizzes', QUIZZES_PADRAO[materia])
+        if os.path.exists(caminho):
+            perguntas = ler_perguntas(caminho)
+            session['perguntas'] = perguntas
+            session['indice'] = 0
+            session['acertos'] = 0
+            session['erros'] = 0
+            return redirect(url_for('quiz'))
+    return redirect(url_for('index'))
 
 @app.route('/quiz', methods=['GET', 'POST'])
 def quiz():
