@@ -59,10 +59,11 @@ def index():
 
 @app.route('/padrao/<materia>')
 def quiz_padrao(materia):
-    """Carrega um quiz padrão a partir dos arquivos da pasta quizzes."""
     if materia in QUIZZES_PADRAO:
         caminho = os.path.join('quizzes', QUIZZES_PADRAO[materia])
         if os.path.exists(caminho):
+            # Força a limpeza de qualquer sessão anterior
+            session.clear()
             perguntas = ler_perguntas(caminho)
             session['perguntas'] = perguntas
             session['indice'] = 0
