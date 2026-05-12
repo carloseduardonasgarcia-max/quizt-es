@@ -21,7 +21,7 @@ QUIZZES_PADRAO = {
     'Arte': 'arte.txt',
     'Música': 'musica.txt',
     'Redação': 'redacao.txt',
-    'Orientação Humana': 'orientacao_humana.txt'
+    'Orientação Humana': 'orientacao_humana.txt',
     'A': 'Arquivo_de_texto.txt'
 }
 
