@@ -22,7 +22,7 @@ QUIZZES_PADRAO = {
     'Música': 'musica.txt',
     'Redação': 'redacao.txt',
     'Orientação Humana': 'orientacao_humana.txt',
-    'não mexa!!!!': 'arquivo_de_texto.txt'
+    'não mexa!!!!': 'Arquivo_de_texto.txt'
 }
 
 def ler_perguntas(caminho_arquivo):
