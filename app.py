@@ -22,7 +22,7 @@ QUIZZES_PADRAO = {
     'Música': 'musica.txt',
     'Redação': 'redacao.txt',
     'Orientação Humana': 'orientacao_humana.txt',
-    'não mexa!!!!': 'Arquivo_de_texto.txt'
+    'Teste': 'Arquivo_de_texto.txt'          # chave simplificada
 }
 
 def ler_perguntas(caminho_arquivo):
@@ -41,8 +41,10 @@ def ler_perguntas(caminho_arquivo):
 @app.route('/', methods=['GET', 'POST'])
 def index():
     """Tela inicial: upload de arquivo ou escolha de quiz padrão."""
+    # Limpa qualquer sessão antiga ao acessar a página inicial
+    session.clear()
+
     if request.method == 'POST':
-        # Upload de arquivo
         arquivo = request.files.get('arquivo')
         if arquivo and arquivo.filename.endswith(('.txt', '.csv')):
             from werkzeug.utils import secure_filename
@@ -59,18 +61,31 @@ def index():
 
 @app.route('/padrao/<materia>')
 def quiz_padrao(materia):
+    """Carrega um quiz padrão a partir dos arquivos da pasta quizzes."""
     if materia in QUIZZES_PADRAO:
         caminho = os.path.join('quizzes', QUIZZES_PADRAO[materia])
-        if os.path.exists(caminho):
-            # Força a limpeza de qualquer sessão anterior
-            session.clear()
-            perguntas = ler_perguntas(caminho)
+        # Verificação absoluta do caminho real
+        caminho_absoluto = os.path.abspath(caminho)
+        if os.path.exists(caminho_absoluto):
+            session.clear()  # limpa sessão anterior
+            perguntas = ler_perguntas(caminho_absoluto)
             session['perguntas'] = perguntas
             session['indice'] = 0
             session['acertos'] = 0
             session['erros'] = 0
             return redirect(url_for('quiz'))
+    # Se não encontrou, volta para index (agora com sessão limpa)
     return redirect(url_for('index'))
+
+# Rota de diagnóstico – acesse para ver se o arquivo existe
+@app.route('/verificar/<materia>')
+def verificar(materia):
+    if materia in QUIZZES_PADRAO:
+        caminho = os.path.join('quizzes', QUIZZES_PADRAO[materia])
+        abs_path = os.path.abspath(caminho)
+        existe = os.path.exists(abs_path)
+        return f"<h3>Verificação para '{materia}'</h3><p>Caminho: {abs_path}</p><p>Existe: {existe}</p>"
+    return "Matéria não encontrada."
 
 @app.route('/quiz', methods=['GET', 'POST'])
 def quiz():
