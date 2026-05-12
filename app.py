@@ -21,8 +21,7 @@ QUIZZES_PADRAO = {
     'Arte': 'arte.txt',
     'Música': 'musica.txt',
     'Redação': 'redacao.txt',
-    'Orientação Humana': 'orientacao_humana.txt',
-    'Teste': 'Arquivo_de_texto.txt'          # chave simplificada
+    'Orientação Humana': 'orientacao_humana.txt'
 }
 
 def ler_perguntas(caminho_arquivo):
