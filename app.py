@@ -11,7 +11,6 @@ os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
 
 # Lista de quizzes padrão (nome do arquivo na pasta quizzes)
 QUIZZES_PADRAO = {
-    'A': 'arquivo_de_texto.txt',
     'Matemática': 'matematica.txt',
     'Português': 'portugues.txt',
     'Ciências': 'ciencias.txt',
@@ -22,7 +21,8 @@ QUIZZES_PADRAO = {
     'Arte': 'arte.txt',
     'Música': 'musica.txt',
     'Redação': 'redacao.txt',
-    'Orientação Humana': 'orientacao_humana.txt'
+    'Orientação Humana': 'orientacao_humana.txt',
+    'não mexa!!!!': 'arquivo_de_texto.txt'
 }
 
 def ler_perguntas(caminho_arquivo):
