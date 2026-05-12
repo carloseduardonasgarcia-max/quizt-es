@@ -22,6 +22,7 @@ QUIZZES_PADRAO = {
     'Música': 'musica.txt',
     'Redação': 'redacao.txt',
     'Orientação Humana': 'orientacao_humana.txt'
+    'A': 'Arquivo_de_texto.txt'
 }
 
 def ler_perguntas(caminho_arquivo):
